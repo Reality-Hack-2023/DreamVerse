@@ -1,16 +1,7 @@
-<h1>Reality Hack</h1>
-Description In Progress.</br></br>
+The DreamVerse Mixed Reality art experience offers a truly innovative way to bring people together through shared, expressive immersion. This experience is designed to adapt to the emotions of the users, allowing for an even more personal and meaningful experience. By harnessing the power of cutting-edge mixed reality technology, DreamVerse creates a fully immersive environment where physical barriers are broken down and new opportunities for social connection are made possible. The virtual environment changes based on the emotions of the users, creating a unique and personalized experience.
 
-<h2>Setup</h2>
-<ul>
-	<li>Make sure you have unity version 2020.3.27f1 with android build support for the best results</li>
-</ul>
-<h2>Installation</h2>
-<ul>
-	<li>Open the project in Unity</li>
-	<li>Go to File > Build Settings</li>
-	<li>Make the texture Compression as ASTC</li>
-	<li>Connect Meta Quest 2 Headset using this <a href="https://developer.oculus.com/documentation/unity/unity-enable-device/">here</a></li>
-	<li>Click on Build and Run</li>
-</ul>
-<h2></h2>
+DreamVerse provides a comfortable and accessible experience that can be enjoyed from the comfort of one's own home, similar to the way we watch a sunset or stargaze. The virtual world of DreamVerse is designed to allow users to fully engage with the artwork, and with each other, fostering a sense of presence and connection. The real-time interaction and collaboration feature enables users to work together to create and explore the virtual world, strengthening relationships and building communities.
+
+DreamVerse takes immersion to the next level by providing haptic feedback and other immersive elements that help to blur the lines between reality and the virtual world, making for an authentic and meaningful experience. The use of haptic feedback and other immersive elements keep users present in the moment, fully engaged with the experience.
+
+In summary, DreamVerse Mixed Reality art experience is a unique and ground-breaking way to connect with others, from the comfort of your own home. It creates an immersive and shared experience, breaking down physical barriers and providing new opportunities for social connection, all while adapting to the users' emotions, creating a personalized and unique experience.
