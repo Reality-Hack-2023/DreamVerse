@@ -1,6 +1,6 @@
 <h1>Welcome to DreamVerse</h1>
 
-<p>DreamVerse is a virtual environment that changes based on the emotions of the users, creating a unique and personalized experience. DreamVerse provides a comfortable and accessible experience that can be enjoyed from any comfortable position. You can experience dreaming, watching sunset or stargazing from comfort of your own couch while reconnecting with people who are not physically there. The virtual world of DreamVerse is designed to allow users to fully engage with the artwork, and with each other, fostering a sense of presence and connection.</p>
+<p>DreamVerse is a virtual environment that changes based on the emotions of the users using brain computing interface creating a unique and personalized experience. DreamVerse provides a comfortable and accessible experience that can be enjoyed from any comfortable position. You can experience dreaming, watching sunset or stargazing from comfort of your own couch while reconnecting with people who are not physically there. The virtual world of DreamVerse is designed to allow users to fully engage with the artwork, and with each other, fostering a sense of presence and connection.</p>
 
 
 <h1>Installation Guide</h1>
